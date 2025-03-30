@@ -1,7 +1,7 @@
 public class Cat {
     private String message;
 
-    public String getMessage() {
+    public String geMessage() {
         return message;
     }
 
